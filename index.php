@@ -1,5 +1,7 @@
 <!DOCTYPE html>
- <title>Halaman Utama</title>
+<html>
+<head>
+    <title>Halaman Utama</title>
 </head>
 <body>
     <h1>Selamat Datang</h1>
